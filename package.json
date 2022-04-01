@@ -1,0 +1,31 @@
+{
+  "name": "@stdlib/math-base-special-fast-max",
+  "version": "0.0.0",
+  "description": "Return the maximum value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-fast-max.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdfastmath",
+    "mathematics",
+    "math",
+    "fastmath",
+    "fast",
+    "maximum",
+    "max",
+    "largest"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
