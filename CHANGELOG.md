@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-26)
+## Unreleased (2026-06-25)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`e6cc42b`](https://github.com/stdlib-js/stdlib/commit/e6cc42bab0268753252236d0e7511c97443754cc) - correct typo in enum name and fix C examples [(#13088)](https://github.com/stdlib-js/stdlib/pull/13088)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`e6cc42b`](https://github.com/stdlib-js/stdlib/commit/e6cc42bab0268753252236d0e7511c97443754cc) - **fix:** correct typo in enum name and fix C examples [(#13088)](https://github.com/stdlib-js/stdlib/pull/13088) _(by anee3)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   anee3
 
 </section>
 
